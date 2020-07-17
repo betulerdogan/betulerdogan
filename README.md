@@ -1,5 +1,11 @@
 ### Hi there 👋
-<p align="left"> <img src=https://komarev.com/ghpvc/?username=betulerdogan alt=rahuldkjain/> </p>
+<p align="left"> <img src=https://komarev.com/ghpvc/?username=betulerdogan </p>
+
+<p align="left">
+<a href= "https://www.linkedin.com/in/betulerdogan/"><img src="https://img.icons8.com/material-outlined/30/000000/linkedin.png"/></a>
+<a href= "https://twitter.com/betulerdo6an"><img src="https://img.icons8.com/material-outlined/30/000000/twitter.png"/></a>
+</p>
+
 <!--
 **betulerdogan/betulerdogan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
