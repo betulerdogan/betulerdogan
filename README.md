@@ -1,5 +1,5 @@
 ### Hi there 👋
-<p align="left"> <img src=https://komarev.com/ghpvc/?username=betulerdogan </p>
+
 
 <p align="center">
 <a href= "https://www.linkedin.com/in/betulerdogan/"><img src="https://img.icons8.com/material-outlined/30/000000/linkedin.png"/></a>
@@ -9,7 +9,7 @@
 <p  align="center">
   <img src="https://github-readme-stats.vercel.app/api/?username=betulerdogan&show_icons=true&title_color=fffffff&icon_color=000000&text_color=000000" alt="github stats"/></br>
 </p>
-
+<p align="center"> <img src=https://komarev.com/ghpvc/?username=betulerdogan </p>
 
 <!--
 **betulerdogan/betulerdogan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
