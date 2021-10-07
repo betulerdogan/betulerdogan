@@ -19,9 +19,11 @@
 <a href= "https://twitter.com/hibetul"><img src="https://img.icons8.com/material-outlined/30/000000/twitter.png"/></a>
 </p>
 
-   <p align="center">
+ <p align="center">
+   <Br>
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=betulerdogan&theme=tokyonight&layout=compact)
-  <img src="https://github.com/DHANOLA/DHANOLA/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+     </Br>
+ <img src="https://github.com/DHANOLA/DHANOLA/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 
 <!--
 **betulerdogan/betulerdogan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
