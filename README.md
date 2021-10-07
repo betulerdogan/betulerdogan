@@ -3,7 +3,7 @@
 
 <p align="center">
 <a href= "https://www.linkedin.com/in/betulerdogan/"><img src="https://img.icons8.com/material-outlined/30/000000/linkedin.png"/></a>
-<a href= "https://twitter.com/betulerdoan_"><img src="https://img.icons8.com/material-outlined/30/000000/twitter.png"/></a>
+<a href= "https://twitter.com/hi.betul"><img src="https://img.icons8.com/material-outlined/30/000000/twitter.png"/></a>
 </p>
 
 
