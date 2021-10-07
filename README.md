@@ -7,7 +7,7 @@
 <h1>About Me! 😎</h1>
 
 - 🏫: I'm a Android Developer.
-- 💬: Ask me about Data Analysis, Visualization and Machine Learning algorithms. 📊📈🤖🧠
+- 💬: Ask me about Android Development and Kotlin. 📊📈🤖🧠
 - ⚡  Fun fact: I like playing video games, running.
   
 <hr>
