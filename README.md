@@ -19,9 +19,9 @@
 <a href= "https://twitter.com/hibetul"><img src="https://img.icons8.com/material-outlined/30/000000/twitter.png"/></a>
 </p>
 
- <p align="center">
+
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=betulerdogan&theme=tokyonight&layout=compact)
-   </center>
+
   
   <p align="center">
  <img src="https://github.com/DHANOLA/DHANOLA/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
