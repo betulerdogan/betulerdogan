@@ -15,9 +15,10 @@
 <h1 align="center">Get in Touch! 📬</h1>
 <Br>
 <p align="center">
-<a href= "https://www.linkedin.com/in/betulerdogan/"><img src="https://img.icons8.com/material-outlined/30/000000/linkedin.png"/></a>
-<a href= "https://twitter.com/hibetul"><img src="https://img.icons8.com/material-outlined/30/000000/twitter.png"/></a>
+<a href= "https://www.linkedin.com/in/betulerdogan/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href= "https://twitter.com/hibetul"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 </p>
+ 
 
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=betulerdogan&theme=tokyonight&layout=compact)
