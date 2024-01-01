@@ -1,13 +1,6 @@
 <p align="center">
   <img src="https://miro.medium.com/max/2048/1*OohqW5DGh9CQS4hLY5FXzA.png" height="230"/>
 </p>
-<h1 align="center">About Me! 😎</h1>
-
-- 🏫: I'm a Android Developer.
-- 💬: Ask me about Android Development and Kotlin. 📊📈🤖🧠
-- ⚡  Fun fact: I like playing video games, running.
-  
-<hr>
 <h1 align="center">Get in Touch! 📬</h1>
 <p align="center">
 <a href= "https://www.linkedin.com/in/betulerdogan/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
